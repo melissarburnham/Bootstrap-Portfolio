@@ -22,20 +22,11 @@
 }
 
 .navbar {
-	background-color: #ffffff;
 	margin-top: 35px;
 	margin-left: 50px;
 	word-spacing: 4px;
 	float: right;
 	width: 33%;
-}
-
-.collapse {
-	background-color: #ffffff;
-}
-
-.navbar-toggler {
-	background-color: #ffffff;
 }
 
 a:hover {

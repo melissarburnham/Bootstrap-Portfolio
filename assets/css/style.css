@@ -4,9 +4,8 @@
 	overflow: auto;
 }
 
-#headername {
+.headername {
 	background-color: #4aaaa5;
-	width: 50%;
 	float: left;
 	padding: 30px 20px;
 	text-align: center;
@@ -15,7 +14,7 @@
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-.headersection {
+#headersection {
 	background-color: #ffffff;
 	margin-bottom: 20px;
 	border-bottom: 3px solid #cccccc;
@@ -26,7 +25,7 @@
 	margin-left: 50px;
 	word-spacing: 4px;
 	float: right;
-	width: 33%;
+	width: 100%;
 }
 
 a:hover {
@@ -183,7 +182,7 @@ margin-left: 20px;
 	margin-bottom: 10px;
 }
 
-.footer {
+footer {
 	text-align: center;
 	color: white;
 	height: 50px;
